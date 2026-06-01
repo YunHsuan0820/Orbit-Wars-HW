@@ -10,5 +10,7 @@ Orbit Wars 是一個基於空間與軌道物理的模擬環境。開發者透過
 * **啟發式代理人 (Heuristic Agent)**：不依賴龐大的深度學習模型，而是透過預先定義好的邏輯權重與條件（if-else 與數學計算）來快速做出最佳決策。
 * **Python 實作**：使用 Python 及其相關的資料科學套件進行開發與視覺化。
 
+👉 [點此閱讀完整的程式概念介紹 (Read the full Concept Introduction)](concept.md)
+
 ## 🔗 資料來源
 * 原始 Kaggle 專案連結：[Orbit Wars - Heuristic Simulation Agent Test 3](https://www.kaggle.com/code/rauffauzanrambe/orbit-wars-heuristic-simulation-agent-test-3)
